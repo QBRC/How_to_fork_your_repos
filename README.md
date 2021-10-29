@@ -1,9 +1,25 @@
+# Welcome
+The purpose of the QBRC Github page is to:
+
+1. Publicize the QRBC and DSSR group as a team.
+2. Provide a central please for new and old team members to browse through all our tools, and promote internal collaborations.
+3. Record keeping for all in-house algorithms and tools.
 # Repo forking steps
-1. Fork it into QBRC, whether it is gonna be private or public depends on the source.
-2. We would prefer you can transfer the ownership to QBRC so we can better manage it for you. Please follow the next 3 steps.
-3. If the repo fork is public, go to repo settings, scroll all the way down, click transfer ownership and transfer it to QBRC.
-4. if the repo fork is private, go to the repo settings, make it public fist, then follow step 3.
-5. [Optional] You can change it back to private if you want.
-6. If you do not wish to transfer the ownership to QBRC, please go to repo settings and add give appropriate members access to the repo.
+You are invited to fork your finished or WIP (working-in-progress) repo here in the QBRC page. To do this, you will need to follow a few steps.
+
+A bot is already set up to automatically keep your forked repo in QBRC up-to-date with your personal copy.
+
+## Walkthrough
+1. Get in contact with admins(Yunguan, Mo, Bo or Jiwoong) to be added as a member of QBRC Github organization. You need to be added as a member before you can fork a repo to QBRC.
+
+<img src="https://github.com/QBRC/How_to_fork_your_repos/blob/main/fork_repo.JPG">
+2. Next, you will need to decide the team and people who should have access to your repo. This can be set in the repo settings of the repo you just forked.
+<img src="https://github.com/QBRC/How_to_fork_your_repos/blob/main/repo_access_setting.JPG">
+
+You can assign admin, read-only, and read-and-write access to members. Please note that the group member that you do not add will **NOT** see your forked repo if it is set to private.
+
+The following steps are optional and will only work if the repo you forked from is public. 
+3. [Optional] Go to the repo settings, scroll all the way down, and transfer the repo to QBRC.
+<img src="https://github.com/QBRC/How_to_fork_your_repos/blob/main/repo_ownership.JPG">
 
 If you have questions, feel free to contact Yunguan Wang. (yunguan.wang@utsouthwestern.edu)
